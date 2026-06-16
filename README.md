@@ -70,7 +70,7 @@ Trained to segment hepatic nuclei stained with Gill's #1 Hematoxylin. Images are
 pip install cellpose
 ```
 
-### Loading a model
+### Loading a model in Cellpose 3
 
 ```python
 from cellpose import models, io
