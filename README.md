@@ -67,7 +67,11 @@ Trained to segment hepatic nuclei stained with Gill's #1 Hematoxylin. Images are
 pip install cellpose
 ```
 
-### Loading a model
+### Loading a model in Cellpose 3
+
+Select models > add custom torch model to GUI > browse to your model
+
+Or:
 
 ```python
 from cellpose import models, io
